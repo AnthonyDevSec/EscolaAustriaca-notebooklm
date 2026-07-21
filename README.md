@@ -1,5 +1,7 @@
 # EscolaAustriaca-notebooklm
 
+link: https://notebooklm.google.com/notebook/b103d9ee-7dd7-42ab-bcd8-a4e8b2bfa8ed
+
 # Objetivo:
 
 Um notebook criado tendo como base as obras centrais da Escola Austríaca de Economia. Para curiosos e estudantes entenderem a base desse pensamento econômico e politico.
