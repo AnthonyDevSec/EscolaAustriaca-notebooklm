@@ -30,7 +30,7 @@ O Que o Governo Fez com o Nosso Dinheiro? de Murray N. Rothbard
 Todos podem ser adquiridos de formas gratuítas na internet, libertários não acreditam no conceito de propriedade intelectual.
 
 
-Engenharia de Prompts e "Cicatrizes": 
+## Engenharia de Prompts e "Cicatrizes": 
 
 Não tive nenhum problema com os prompts. Por ser alguém que entende do assunto, minhas perguntas são inviesadas, não consegui encontrar algo que causa-se problemas porque sempre consegui fazer as perguntas de forma correta. Mas para evitar problemas, utilizei apenas os livros criados pelos grandes estudiosos, sem vídeos do youtube servindo de fonte para não ter algo digerido de forma errada por alguém para causar problemas.
 
